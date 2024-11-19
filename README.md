@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @shreyas-iyer
-- 💻🛠 Currently building Antimetal 
-- 🏫 Dropped out from Harvard where I studied Stats + CS
-- 📫 How to reach me: shreyas(at)antimetal(dot)com
+Founder and CTO of [Antimetal](https://antimetal.com/). 
+
+I love to build. Check out my [Twitter](https://x.com/shreyasaiyer)
