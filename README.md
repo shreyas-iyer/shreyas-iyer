@@ -1,3 +1,4 @@
-Founder and CTO of [Antimetal](https://antimetal.com/). 
+Founder and CTO of [Antimetal](https://antimetal.com/). I love to build.
 
-I love to build. Check out my [Twitter](https://x.com/shreyasaiyer)
+- [Website](https://shreyasiyer.dev)
+- [X](https://x.com/shreyasaiyer)
